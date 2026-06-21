@@ -2,6 +2,10 @@
 
 A full-stack chat application with a modern React UI and an Express backend powered by Google Gemini.
 
+## Live Demo
+
+Check out the live demo here: [https://personal-ai-chat-app-seven.vercel.app/](https://personal-ai-chat-app-seven.vercel.app/)
+
 ## Overview
 
 This project lets you:
